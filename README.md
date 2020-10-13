@@ -7,7 +7,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjine&show_icons=true&theme=buefy)
 
 Velog : https://velog.io/@jjine 
-
 <br>
-
 Email : JJine@kakao.com 
