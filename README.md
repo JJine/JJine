@@ -8,4 +8,7 @@
 
 Velog : https://velog.io/@jjine 
 <br>
-Email : JJine@kakao.com 
+Email : JJine@kakao.com <br />
+
+![123444](https://user-images.githubusercontent.com/51090557/99496659-16e8aa00-29b8-11eb-83fe-03609f1908c0.png) <br />
+[포트폴리오 총 모음집](https://www.notion.so/A-Suwon-UI-UX-Engineer-b4c011b169a543c297ede20c20c5515f)
