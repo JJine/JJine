@@ -9,4 +9,3 @@ Velog : https://velog.io/@jjine
 <br>
 Email : JJine@kakao.com <br />
 
-![123444](https://user-images.githubusercontent.com/51090557/99496659-16e8aa00-29b8-11eb-83fe-03609f1908c0.png) <br />
